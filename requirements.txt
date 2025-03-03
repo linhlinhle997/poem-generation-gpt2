@@ -1,0 +1,7 @@
+selenium==4.29.0
+datasets
+evaluate
+accelerate
+git-lfs
+transformers
+webdriver-manager
